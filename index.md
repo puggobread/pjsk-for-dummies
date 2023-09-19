@@ -3,9 +3,10 @@ title: Home
 layout: home
 ---
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Welcome to my[^1] super professional guide on Project Sekai (PJSK, Proseka, etc.), or HATSUNE MIKU: COLORFUL STAGE!
+From here, you can get (most) any information about the game and read to your heart's content. From the very basics and getting started, to tiering and ranked play. The guide will also define some terms that you might not know (get out those flashcards goober!!)
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+This guide is subject to change -- information can be updated at any time to be as helpful as possible. And if it isn't? Well you could probably look somewhere else for your answers.
 
 More specifically, the created site:
 
@@ -25,7 +26,7 @@ If you want to maintain your docs in the `docs` directory of an existing project
 
 ----
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+[^1]: [I am not affiliated with SEGA, Colorful Palette, or any of the devs. I simply am compiling information that I wish I had. I don't claim to own anything on this site -- hell, you can see it right there, I don't even own this template. Basically what I'm trying to say here is: please don't SWAT my house for copyright infringement or a similar crime!!]
 
 [Just the Docs]: https://just-the-docs.github.io/just-the-docs/
 [GitHub Pages]: https://docs.github.com/en/pages
